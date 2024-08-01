@@ -9,6 +9,8 @@ export type User = {
   password: string;
 };
 
+
+
 export type Customer = {
   id: string;
   name: string;
